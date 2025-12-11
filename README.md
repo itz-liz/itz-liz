@@ -4,7 +4,9 @@
 Mi nombre es <strong>Itzel</strong>, pero me pueden llamar <strong>Alien</strong> por mi tag, o <strong>itz</strong> o <strong>liz</strong> si me conocen :D
 </p>
 
+<p align="center">
 <img src="zip zip.jpg" width="300">
+</p>
 ---
 
 ## ✨ Pasatiempos
@@ -15,9 +17,10 @@ Mi nombre es <strong>Itzel</strong>, pero me pueden llamar <strong>Alien</strong
 - Dibujar
 - Cocinar
 - Ver películas o series para luego no dormir en la noche :,v
-
+<p align="center">
+<img src="zzz.jpg" width="300">
+</p>
 ---
-<img src=zzz.jpg" width="300">
 
 ## Cosas sobre mí
 - Amo programar :3  
