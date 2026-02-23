@@ -1,7 +1,7 @@
-<h1 align="center">👽 Hola Humanos :P</h1>
+<h1 align="center"> Hola Humano Cursando :P</h1>
 
 <p align="center">
-Mi nombre es <strong>Itzel</strong>, pero me pueden llamar <strong>Alien</strong> por mi tag, o <strong>itz</strong> o <strong>liz</strong> si me conocen :D
+Mi nombre es <strong>Itzel Cortes</strong>, pero me pueden llamar por mi tag, o <strong>itz</strong> o <strong>liz</strong> si me conocen :P
 </p>
 
 <p align="center">
@@ -9,14 +9,14 @@ Mi nombre es <strong>Itzel</strong>, pero me pueden llamar <strong>Alien</strong
 </p>
 ---
 
-## ✨ Pasatiempos
+## Pasatiempos
 - Existir
 - Pensar en teorías conspirativas
 - Ver anime o series
-- Hacer cualquier manualidad
-- Dibujar
-- Cocinar
-- Ver películas o series para luego no dormir en la noche :,v
+- Aprender de mi carrera (Programacion)
+- Analisis de datos
+- Leer 
+
 <p align="center">
 <img src="zzz.jpg" width="300">
 </p>
@@ -25,14 +25,14 @@ Mi nombre es <strong>Itzel</strong>, pero me pueden llamar <strong>Alien</strong
 ## Cosas sobre mí
 - Amo programar :3  
 - Me encantan todo tipo de animales  
-- Amo a Legoshi <3  
+- Fan de siempre aprender y preguntar de cosas nuevas
 - Gran fan del anime  
 - Aún estudiante de TIC’s  
 
 ---
 
-## 🚀 ¿Qué me interesa?
-Por el momento aprender todo lo que pueda de codigo, a ver qué tan pro soy :33
+## ¿Qué me interesa?
+Por el momento aprender todo lo que pueda de codigo y desafiarme en nuevos retos
 
 ---
 
